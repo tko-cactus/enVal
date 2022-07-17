@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tkocactus.enval.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tkocactus.enval.MyBundle
 
 class MyApplicationService {
 
